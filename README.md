@@ -1,2 +1,2 @@
-# a3-gsm
+# a3gsm
 A3! Game Screenshot Maker
